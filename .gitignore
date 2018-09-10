@@ -1,3 +1,4 @@
-.idea/
-target/classes/
-*.jar
+**/.idea
+**/target
+**.iml
+**.jar
